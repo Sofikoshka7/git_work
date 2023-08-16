@@ -28,8 +28,8 @@
   * Чтобы не вводить название файла или папки полностью, можно набрать первые символы имени и дважды нажать Tab. Если файл или папка есть в текущей директории, командная строка допишет путь сама.  
 Например, вы находитесь в папке dev. Начните вводить cd first и дважды нажмите Tab. Если папка first-project есть внутри dev, командная строка автоматически подставит её имя. Останется только нажать Enter.  
 
-# Markdown
-[шпаргалка](https://github.com/sandino/Markdown-Cheatsheet)   
+# Разметка файла README.md - Markdown
+[Шпаргалка](https://github.com/sandino/Markdown-Cheatsheet)   
 [Пример оформления](https://github.com/git/git/blob/master/README.md)
 
 [Включайте диаграммы в свои файлы Markdown с помощью Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
